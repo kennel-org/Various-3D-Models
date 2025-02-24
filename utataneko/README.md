@@ -15,7 +15,7 @@ Both designs are provided in STL, STEP, and 3MF formats.
 
 ## Publisher
 - [utataneko](https://x.com/rFINVdiE73BiQrm)
-- - [dennoukoukishin](https://dennoukoukishin.booth.pm/)
+- [dennoukoukishin](https://dennoukoukishin.booth.pm/)
 
 ## Files and Formats
 Each design includes files in the following formats:
