@@ -1,4 +1,4 @@
-# L-Chika Bottom Cases
+# utataneko-san's Electronic Project Bottom Cases
 
 This repository features two distinct bottom case designs for the L-Chika board, each tailored for a different microcontroller configuration.
 
